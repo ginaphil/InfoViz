@@ -23,7 +23,7 @@ header,footer{
 
 iframe{
     width:100%;
-    height:fit-content;
+    height:800px;
 }
 svg{
     width:100%;
@@ -37,5 +37,6 @@ svg{
     grid-row-gap: 50px;
   }
   .subhead{
-      text-align: right;
+      text-align:center;
+      font-family:'Courier New', Courier, monospace;
   }
