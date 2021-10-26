@@ -38,4 +38,6 @@ svg{
   }
   .subhead{
       text-align: right;
+      align-content: right;
+      ;
   }
