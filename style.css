@@ -15,7 +15,7 @@ body{
 
 header,footer,main{
     margin: 20px auto;
-    max-width: 800px;
+    max-width: 1080px;
 }
 
 header,footer,.mainbod{
