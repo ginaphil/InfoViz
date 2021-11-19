@@ -22,6 +22,9 @@ header,footer,.mainbod{
     text-align: center;
 }
 
+femhead{
+    max-width: 1920px;
+}
 
 svg{
     width:100%;
@@ -59,4 +62,8 @@ svg{
   }
   .middle{
       text-align: center;
+  }
+  a{
+      text-decoration:white;
+      color:cadetblue;
   }
